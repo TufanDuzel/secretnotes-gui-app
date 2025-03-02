@@ -81,3 +81,6 @@ This is a hidden message!
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. Suggestions and improvements are welcome!
+
+## License
+This project is open-source and available under the MIT License.
